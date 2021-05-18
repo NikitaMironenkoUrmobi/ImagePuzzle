@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c2de249-5f08-4857-9abc-ceba36a4d194" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImagePuzzle/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImagePuzzle/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImagePuzzle/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImagePuzzle/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImagePuzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImagePuzzle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/01_line (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/01_line (3).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/02_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/02_line.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/03_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/03_line.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/right-arrow (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Images/right-arrow (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STaskSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STaskSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STasks.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STasks.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STasksCollection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/STasksCollection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoAfterFramesTask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoAfterFramesTask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoRepeatingTask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoRepeatingTask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoTask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoTask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoUntilTask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoUntilTask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoWhenTask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/Task Variants/DoWhenTask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/UpdateHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Packages/STasks/Scripts/UpdateHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/DOTween.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/DOTween.XML.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/DOTween.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/DOTween.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Plugins/Demigiant/DOTween/readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Prefabs/Custom-Scroll-Snap.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Prefabs/Custom-Scroll-Snap.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Prefabs/ScrollPart.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Prefabs/ScrollPart.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/lion/img9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey/img4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img21.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img22.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Images/monkey2/img9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels/lion.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels/lion.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels/monkey.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels/monkey.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels/monkey2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Resources/Levels/monkey2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scenes/Index.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scenes/Index.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Config.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Config.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Core/GameEventDistributor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Core/GameEventDistributor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/ImageUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/ImageUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Mover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Mover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Part.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Part.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/ScrollManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/ScrollManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/ScrollPart.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/ScrollPart.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Splitter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Splitter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Cache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Cache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Core.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Core.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/DirectionalScrollSnap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/DirectionalScrollSnap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/SO_Data.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/SO_Data.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Scroller.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Scroller.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Variables.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Variables.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/UI/GameTopBar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/UI/GameTopBar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/_temp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/_temp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Documentation/Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Documentation/Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Prefabs/Pagination.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Prefabs/Pagination.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Prefabs/Scroll-Snap.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Prefabs/Scroll-Snap.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts/Editor/SimpleScrollSnapEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts/Editor/SimpleScrollSnapEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts/Runtime/SimpleScrollSnap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/Simple Scroll-Snap/Scripts/Runtime/SimpleScrollSnap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Bitmap.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_SDF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Sprite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro_Mobile.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro_Properties.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro_Surface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShapePuzzle/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tools/CorePointBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/96/392b96b2/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/CoorPicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Candies-Line-Puzzle-/Ropes/Assets/_Scripts/handGenerator/ropesSaver.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Core/GameEventDistributor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameTopBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tools/Core.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Mover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Part.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScrollManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/UIWindows/Windows/WLevelSelector.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/_temp.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/UI/GameTopBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Variables.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Tools/Cache.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShapePuzzle/Scripts/Splitter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Core/Maps.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/_temp.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tools/SO_Data.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScrollPart.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ImageUtils.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tools/CorePointBuilder.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tools/Variables.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tools/Cache.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Splitter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Core/CoorPicker.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1iSGJYufmOsqYpnNtZ9hzYwxiQ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c2de249-5f08-4857-9abc-ceba36a4d194" name="Default Changelist" comment="" />
+      <created>1601893512779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601893512779</updated>
+      <workItem from="1601893518723" duration="13918000" />
+      <workItem from="1601964205163" duration="21162000" />
+      <workItem from="1611645230763" duration="95000" />
+      <workItem from="1611660566351" duration="9143000" />
+      <workItem from="1611676538725" duration="2849000" />
+      <workItem from="1611732429823" duration="331000" />
+      <workItem from="1612959990342" duration="936000" />
+      <workItem from="1612961699347" duration="2578000" />
+      <workItem from="1612965539809" duration="1011000" />
+      <workItem from="1613031721510" duration="1632000" />
+      <workItem from="1613054566984" duration="3262000" />
+      <workItem from="1613116447811" duration="9127000" />
+      <workItem from="1614006477501" duration="682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

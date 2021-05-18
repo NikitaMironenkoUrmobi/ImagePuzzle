@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ANIMALS_1
+  m_EditorClassIdentifier: 
+  m_GroupName: ANIMALS_1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5127b3a543c065d4990e60d8c1aba224
+  m_SerializeEntries:
+  - m_GUID: 0dc9b3f7aacad8a48890c8f68a476d28
+    m_Address: Assets/Resources/Levels/ANIMALS_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 0dc9b3f7aacad8a48890c8f68a476d28, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 0dc9b3f7aacad8a48890c8f68a476d28, type: 2}
+  - m_GUID: 779f89a8e7e6f0e449a0cff03a625af8
+    m_Address: Assets/Resources/Images/ANIMALS_1/ANIMALS_1_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9e220d4d96568ae48989c1b4451cf0c3
+    m_Address: Assets/Resources/Images/ANIMALS_1/ANIMALS_1_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e462f9adc6449bb41807c1006408564b
+    m_Address: Assets/Resources/Images/ANIMALS_1/ANIMALS_1_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eea78b12bd711eb468f5a6dc8f1b826a
+    m_Address: Assets/Resources/Images/ANIMALS_1/ANIMALS_1_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66cb07057adee6a479f308bf6f426da2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 96c31bc3ae81c204b9aaf9cbf90bf9fc, type: 2}
+    - {fileID: 11400000, guid: caa0d24bf461cf845bbda25df08ff399, type: 2}
